@@ -1,5 +1,5 @@
 outs:
-- md5: bbbca3c22222cc863ed282f2d44c504c.dir
-  size: 75656446
+- md5: 32cc6a49ecad56e463d7a3877c786626.dir
+  size: 75656362
   nfiles: 4
   path: sc-dataset
